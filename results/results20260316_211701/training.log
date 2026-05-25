@@ -1,0 +1,147 @@
+2026-03-16 21:18:57,588 [INFO] epoch   1/120 | Train Loss: 43.8861 | Val Loss:   44.5573
+2026-03-16 21:19:56,024 [INFO] epoch   2/120 | Train Loss: 7.3593 | Val Loss:   2.1892
+2026-03-16 21:20:58,655 [INFO] epoch   3/120 | Train Loss: 2.4790 | Val Loss:   2.0023
+2026-03-16 21:22:00,137 [INFO] epoch   4/120 | Train Loss: 2.2996 | Val Loss:   1.8987
+2026-03-16 21:23:03,369 [INFO] epoch   5/120 | Train Loss: 2.1256 | Val Loss:   1.8084
+2026-03-16 21:24:06,682 [INFO] epoch   6/120 | Train Loss: 2.1626 | Val Loss:   1.7707
+2026-03-16 21:25:07,906 [INFO] epoch   7/120 | Train Loss: 2.0231 | Val Loss:   1.7789
+2026-03-16 21:26:11,108 [INFO] epoch   8/120 | Train Loss: 2.0055 | Val Loss:   1.8069
+2026-03-16 21:27:12,319 [INFO] epoch   9/120 | Train Loss: 1.9536 | Val Loss:   1.6471
+2026-03-16 21:28:15,463 [INFO] epoch  10/120 | Train Loss: 1.8561 | Val Loss:   1.7066
+2026-03-16 21:29:14,308 [INFO] epoch  11/120 | Train Loss: 1.8250 | Val Loss:   1.6060
+2026-03-16 21:30:13,693 [INFO] epoch  12/120 | Train Loss: 1.7134 | Val Loss:   1.6112
+2026-03-16 21:31:14,095 [INFO] epoch  13/120 | Train Loss: 1.8129 | Val Loss:   1.7122
+2026-03-16 21:32:15,967 [INFO] epoch  14/120 | Train Loss: 1.7056 | Val Loss:   1.6635
+2026-03-16 21:33:14,908 [INFO] epoch  15/120 | Train Loss: 1.6509 | Val Loss:   1.5134
+2026-03-16 21:34:18,396 [INFO] epoch  16/120 | Train Loss: 1.6651 | Val Loss:   1.5799
+2026-03-16 21:35:22,553 [INFO] epoch  17/120 | Train Loss: 1.6636 | Val Loss:   1.4138
+2026-03-16 21:36:25,566 [INFO] epoch  18/120 | Train Loss: 1.5785 | Val Loss:   1.5444
+2026-03-16 21:37:26,682 [INFO] epoch  19/120 | Train Loss: 1.6347 | Val Loss:   1.4919
+2026-03-16 21:38:22,944 [INFO] epoch  20/120 | Train Loss: 1.4707 | Val Loss:   1.4002
+2026-03-16 21:39:24,226 [INFO] epoch  21/120 | Train Loss: 1.5612 | Val Loss:   1.4922
+2026-03-16 21:40:21,870 [INFO] epoch  22/120 | Train Loss: 1.5600 | Val Loss:   1.4144
+2026-03-16 21:41:24,905 [INFO] epoch  23/120 | Train Loss: 1.3969 | Val Loss:   1.3108
+2026-03-16 21:42:25,940 [INFO] epoch  24/120 | Train Loss: 1.3492 | Val Loss:   1.2842
+2026-03-16 21:43:30,010 [INFO] epoch  25/120 | Train Loss: 1.3610 | Val Loss:   1.3647
+2026-03-16 21:44:34,394 [INFO] epoch  26/120 | Train Loss: 1.3519 | Val Loss:   1.4054
+2026-03-16 21:45:33,219 [INFO] epoch  27/120 | Train Loss: 1.3527 | Val Loss:   1.4304
+2026-03-16 21:46:33,511 [INFO] epoch  28/120 | Train Loss: 1.3751 | Val Loss:   1.4418
+2026-03-16 21:47:33,336 [INFO] epoch  29/120 | Train Loss: 1.5173 | Val Loss:   1.5136
+2026-03-16 21:48:34,793 [INFO] epoch  30/120 | Train Loss: 1.3447 | Val Loss:   1.3999
+2026-03-16 21:49:34,110 [INFO] epoch  31/120 | Train Loss: 1.3113 | Val Loss:   1.2815
+2026-03-16 21:50:38,560 [INFO] epoch  32/120 | Train Loss: 1.2881 | Val Loss:   1.3727
+2026-03-16 21:51:38,309 [INFO] epoch  33/120 | Train Loss: 1.2531 | Val Loss:   1.3708
+2026-03-16 21:52:39,581 [INFO] epoch  34/120 | Train Loss: 1.2533 | Val Loss:   1.2664
+2026-03-16 21:53:41,640 [INFO] epoch  35/120 | Train Loss: 1.2120 | Val Loss:   1.4111
+2026-03-16 21:54:42,828 [INFO] epoch  36/120 | Train Loss: 1.2136 | Val Loss:   1.2729
+2026-03-16 21:55:44,240 [INFO] epoch  37/120 | Train Loss: 1.1919 | Val Loss:   1.2518
+2026-03-16 21:56:47,453 [INFO] epoch  38/120 | Train Loss: 1.1561 | Val Loss:   1.4423
+2026-03-16 21:57:49,966 [INFO] epoch  39/120 | Train Loss: 1.1043 | Val Loss:   1.3154
+2026-03-16 21:58:49,721 [INFO] epoch  40/120 | Train Loss: 1.1403 | Val Loss:   1.2970
+2026-03-16 21:59:50,002 [INFO] epoch  41/120 | Train Loss: 1.1122 | Val Loss:   1.3007
+2026-03-16 22:00:50,319 [INFO] epoch  42/120 | Train Loss: 1.1165 | Val Loss:   1.2199
+2026-03-16 22:01:53,359 [INFO] epoch  43/120 | Train Loss: 1.0756 | Val Loss:   1.2555
+2026-03-16 22:02:48,480 [INFO] epoch  44/120 | Train Loss: 1.0749 | Val Loss:   1.2261
+2026-03-16 22:03:49,053 [INFO] epoch  45/120 | Train Loss: 1.0384 | Val Loss:   1.2654
+2026-03-16 22:04:51,137 [INFO] epoch  46/120 | Train Loss: 0.9842 | Val Loss:   1.2323
+2026-03-16 22:05:50,255 [INFO] epoch  47/120 | Train Loss: 0.9802 | Val Loss:   1.3093
+2026-03-16 22:06:50,818 [INFO] epoch  48/120 | Train Loss: 0.9793 | Val Loss:   1.1826
+2026-03-16 22:07:52,738 [INFO] epoch  49/120 | Train Loss: 0.9577 | Val Loss:   1.1986
+2026-03-16 22:08:56,928 [INFO] epoch  50/120 | Train Loss: 0.9065 | Val Loss:   1.1588
+2026-03-16 22:09:59,339 [INFO] epoch  51/120 | Train Loss: 0.9190 | Val Loss:   1.1878
+2026-03-16 22:11:02,311 [INFO] epoch  52/120 | Train Loss: 0.8167 | Val Loss:   1.1483
+2026-03-16 22:12:04,726 [INFO] epoch  53/120 | Train Loss: 0.9057 | Val Loss:   1.2562
+2026-03-16 22:13:02,966 [INFO] epoch  54/120 | Train Loss: 0.8166 | Val Loss:   1.1786
+2026-03-16 22:14:04,613 [INFO] epoch  55/120 | Train Loss: 0.8884 | Val Loss:   1.2254
+2026-03-16 22:15:06,462 [INFO] epoch  56/120 | Train Loss: 0.8337 | Val Loss:   1.2537
+2026-03-16 22:16:09,308 [INFO] epoch  57/120 | Train Loss: 0.8201 | Val Loss:   1.2123
+2026-03-16 22:17:07,387 [INFO] epoch  58/120 | Train Loss: 0.8163 | Val Loss:   1.2955
+2026-03-16 22:18:08,689 [INFO] epoch  59/120 | Train Loss: 0.7715 | Val Loss:   1.1575
+2026-03-16 22:19:11,546 [INFO] epoch  60/120 | Train Loss: 0.7783 | Val Loss:   1.2471
+2026-03-16 22:20:14,388 [INFO] epoch  61/120 | Train Loss: 0.7611 | Val Loss:   1.1868
+2026-03-16 22:21:14,148 [INFO] epoch  62/120 | Train Loss: 0.7397 | Val Loss:   1.1625
+2026-03-16 22:22:16,915 [INFO] epoch  63/120 | Train Loss: 0.7442 | Val Loss:   1.2227
+2026-03-16 22:23:18,678 [INFO] epoch  64/120 | Train Loss: 0.7013 | Val Loss:   1.1476
+2026-03-16 22:24:19,648 [INFO] epoch  65/120 | Train Loss: 0.6879 | Val Loss:   1.2000
+2026-03-16 22:25:22,819 [INFO] epoch  66/120 | Train Loss: 0.6914 | Val Loss:   1.2248
+2026-03-16 22:26:25,422 [INFO] epoch  67/120 | Train Loss: 0.6200 | Val Loss:   1.1679
+2026-03-16 22:27:24,239 [INFO] epoch  68/120 | Train Loss: 0.6759 | Val Loss:   1.1456
+2026-03-16 22:28:24,835 [INFO] epoch  69/120 | Train Loss: 0.6535 | Val Loss:   1.1118
+2026-03-16 22:29:27,483 [INFO] epoch  70/120 | Train Loss: 0.6213 | Val Loss:   1.1247
+2026-03-16 22:30:25,387 [INFO] epoch  71/120 | Train Loss: 0.5949 | Val Loss:   1.1621
+2026-03-16 22:31:25,465 [INFO] epoch  72/120 | Train Loss: 0.5811 | Val Loss:   1.1618
+2026-03-16 22:32:27,487 [INFO] epoch  73/120 | Train Loss: 0.5625 | Val Loss:   1.1283
+2026-03-16 22:33:21,238 [INFO] epoch  74/120 | Train Loss: 0.6008 | Val Loss:   1.1702
+2026-03-16 22:34:21,310 [INFO] epoch  75/120 | Train Loss: 0.5896 | Val Loss:   1.1432
+2026-03-16 22:35:18,263 [INFO] epoch  76/120 | Train Loss: 0.5990 | Val Loss:   1.1760
+2026-03-16 22:36:16,947 [INFO] epoch  77/120 | Train Loss: 0.5855 | Val Loss:   1.1230
+2026-03-16 22:37:17,870 [INFO] epoch  78/120 | Train Loss: 0.5538 | Val Loss:   1.1654
+2026-03-16 22:38:16,280 [INFO] epoch  79/120 | Train Loss: 0.5478 | Val Loss:   1.1688
+2026-03-16 22:39:16,824 [INFO] epoch  80/120 | Train Loss: 0.4915 | Val Loss:   1.1377
+2026-03-16 22:40:17,106 [INFO] epoch  81/120 | Train Loss: 0.4962 | Val Loss:   1.1701
+2026-03-16 22:41:11,880 [INFO] epoch  82/120 | Train Loss: 0.5111 | Val Loss:   1.1147
+2026-03-16 22:42:13,713 [INFO] epoch  83/120 | Train Loss: 0.4929 | Val Loss:   1.1260
+2026-03-16 22:43:11,094 [INFO] epoch  84/120 | Train Loss: 0.4634 | Val Loss:   1.1121
+2026-03-16 22:44:13,808 [INFO] epoch  85/120 | Train Loss: 0.4883 | Val Loss:   1.1425
+2026-03-16 22:45:15,825 [INFO] epoch  86/120 | Train Loss: 0.4658 | Val Loss:   1.0930
+2026-03-16 22:46:16,200 [INFO] epoch  87/120 | Train Loss: 0.4567 | Val Loss:   1.1220
+2026-03-16 22:47:11,618 [INFO] epoch  88/120 | Train Loss: 0.4593 | Val Loss:   1.1306
+2026-03-16 22:48:11,149 [INFO] epoch  89/120 | Train Loss: 0.4431 | Val Loss:   1.1064
+2026-03-16 22:49:10,006 [INFO] epoch  90/120 | Train Loss: 0.4563 | Val Loss:   1.1366
+2026-03-16 22:50:10,555 [INFO] epoch  91/120 | Train Loss: 0.4199 | Val Loss:   1.0931
+2026-03-16 22:51:10,396 [INFO] epoch  92/120 | Train Loss: 0.4090 | Val Loss:   1.1453
+2026-03-16 22:52:10,589 [INFO] epoch  93/120 | Train Loss: 0.4118 | Val Loss:   1.1029
+2026-03-16 22:53:06,498 [INFO] epoch  94/120 | Train Loss: 0.3923 | Val Loss:   1.1102
+2026-03-16 22:54:08,662 [INFO] epoch  95/120 | Train Loss: 0.3957 | Val Loss:   1.1425
+2026-03-16 22:55:07,478 [INFO] epoch  96/120 | Train Loss: 0.3896 | Val Loss:   1.1010
+2026-03-16 22:56:06,429 [INFO] epoch  97/120 | Train Loss: 0.3780 | Val Loss:   1.1213
+2026-03-16 22:57:09,548 [INFO] epoch  98/120 | Train Loss: 0.3669 | Val Loss:   1.0995
+2026-03-16 22:58:08,076 [INFO] epoch  99/120 | Train Loss: 0.3618 | Val Loss:   1.0884
+2026-03-16 22:59:07,681 [INFO] epoch 100/120 | Train Loss: 0.3749 | Val Loss:   1.1051
+2026-03-16 23:00:02,781 [INFO] epoch 101/120 | Train Loss: 0.3542 | Val Loss:   1.0987
+2026-03-16 23:00:59,007 [INFO] epoch 102/120 | Train Loss: 0.3507 | Val Loss:   1.1005
+2026-03-16 23:01:57,692 [INFO] epoch 103/120 | Train Loss: 0.3560 | Val Loss:   1.1176
+2026-03-16 23:02:58,935 [INFO] epoch 104/120 | Train Loss: 0.3408 | Val Loss:   1.1047
+2026-03-16 23:03:56,069 [INFO] epoch 105/120 | Train Loss: 0.3426 | Val Loss:   1.0983
+2026-03-16 23:04:55,396 [INFO] epoch 106/120 | Train Loss: 0.3466 | Val Loss:   1.1060
+2026-03-16 23:05:53,777 [INFO] epoch 107/120 | Train Loss: 0.3320 | Val Loss:   1.1037
+2026-03-16 23:06:50,468 [INFO] epoch 108/120 | Train Loss: 0.3306 | Val Loss:   1.0871
+2026-03-16 23:07:49,948 [INFO] epoch 109/120 | Train Loss: 0.3237 | Val Loss:   1.1074
+2026-03-16 23:08:50,883 [INFO] epoch 110/120 | Train Loss: 0.3224 | Val Loss:   1.1036
+2026-03-16 23:19:36,381 [INFO] epoch 111/120 | Train Loss: 0.3221 | Val Loss:   1.0971
+2026-03-16 23:30:01,493 [INFO] epoch 112/120 | Train Loss: 0.3218 | Val Loss:   1.1033
+2026-03-16 23:31:03,434 [INFO] epoch 113/120 | Train Loss: 0.3246 | Val Loss:   1.1035
+2026-03-16 23:41:33,222 [INFO] epoch 114/120 | Train Loss: 0.3276 | Val Loss:   1.1099
+2026-03-16 23:42:28,536 [INFO] epoch 115/120 | Train Loss: 0.3251 | Val Loss:   1.1090
+2026-03-16 23:43:24,844 [INFO] epoch 116/120 | Train Loss: 0.3162 | Val Loss:   1.1068
+2026-03-16 23:44:20,657 [INFO] epoch 117/120 | Train Loss: 0.3157 | Val Loss:   1.1123
+2026-03-16 23:45:20,941 [INFO] epoch 118/120 | Train Loss: 0.3184 | Val Loss:   1.1051
+2026-03-16 23:46:19,285 [INFO] epoch 119/120 | Train Loss: 0.3213 | Val Loss:   1.1037
+2026-03-16 23:47:23,061 [INFO] epoch 120/120 | Train Loss: 0.3129 | Val Loss:   1.1033
+2026-03-16 23:47:23,117 [INFO] Loaded best model
+2026-03-16 23:47:23,117 [INFO] Starting final evaluation on all splits
+2026-03-16 23:58:20,293 [INFO] === FINAL RESULTS ===
+2026-03-16 23:58:20,294 [INFO] 
+TRAIN SET METRICS:
+2026-03-16 23:58:20,294 [INFO]   Loss:     0.2235
+2026-03-16 23:58:20,294 [INFO]   c_index:  0.9248
+2026-03-16 23:58:20,294 [INFO]   RMSE:     0.4727
+2026-03-16 23:58:20,294 [INFO]   MAE:      0.3384
+2026-03-16 23:58:20,294 [INFO]   CORR:     0.9671
+2026-03-16 23:58:20,294 [INFO]   SD:       0.4718
+2026-03-16 23:58:20,294 [INFO] 
+VALID SET METRICS:
+2026-03-16 23:58:20,294 [INFO]   Loss:     1.1032
+2026-03-16 23:58:20,294 [INFO]   c_index:  0.8105
+2026-03-16 23:58:20,294 [INFO]   RMSE:     1.0503
+2026-03-16 23:58:20,294 [INFO]   MAE:      0.8023
+2026-03-16 23:58:20,294 [INFO]   CORR:     0.8198
+2026-03-16 23:58:20,294 [INFO]   SD:       1.0254
+2026-03-16 23:58:20,294 [INFO] 
+TEST SET METRICS:
+2026-03-16 23:58:20,294 [INFO]   Loss:     1.2192
+2026-03-16 23:58:20,294 [INFO]   c_index:  0.8369
+2026-03-16 23:58:20,294 [INFO]   RMSE:     1.1042
+2026-03-16 23:58:20,294 [INFO]   MAE:      0.8374
+2026-03-16 23:58:20,294 [INFO]   CORR:     0.8621
+2026-03-16 23:58:20,294 [INFO]   SD:       1.1018
